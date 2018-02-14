@@ -1,0 +1,25 @@
+{
+    "contests": [
+      {
+        "id": 1,
+        "categoryName": "Business/Company",
+        "contestName": "Mitel Bricks"
+      },
+      {
+        "id": 2,
+        "categoryName": "Magazine/Newsletter",
+        "contestName": "Mitel people about sustainable food production"
+      },
+      {
+        "id": 3,
+        "categoryName": "Software Component",
+        "contestName": "Big Data Analytics for Mitel"
+      },
+      {
+        "id": 4,
+        "categoryName": "Website",
+        "contestName": "Mitel.com"
+      }
+    ]
+  }
+  
